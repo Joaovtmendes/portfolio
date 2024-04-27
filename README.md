@@ -1,12 +1,28 @@
 
 # Welcome to my data science and analytics portfolio!
-[![author](https://img.shields.io/badge/author-joaovtmendes-blue.svg)](https://www.linkedin.com/in/joao-vitor-mendes-silva) 
+[![author](https://img.shields.io/badge/author-João_Vitor_Mendes-blue.svg)](https://www.linkedin.com/in/joao-vitor-mendes-silva) 
 
 <p align="center">
   <img src="https://github.com/Joaovtmendes/portfolio/assets/154254190/8e6bafec-f3e3-4f0e-89af-807023f953c5" width=50%>
 </p>
 
-## **PROJETOS**
+<h2 align="left">🗨 About me:</h2>
+
+- 👨‍🎓I have a degree in business administration and am currently pursuing a master's degree in data engineering
+
+- 💰 I work in a chain of confectioneries as a business analyst mainly with power bi, excel, sql and scrum
+  
+- 🔭 I am currently working on a project as a data analyst for an international event called Genfest
+
+- 👨‍💻 In 2022, I began my transition to the technology area. I started as a business analyst and later took on a position of trust, acting as the manager of one of the company's units.
+  
+- 💬 Ask me about **Data analytics, Business modeling, Power BI, Python, SQL, Excel, VBA**
+
+- 📫 How to reach me: **joaovtmendes@gmail.com**
+
+- 📄 Know about my experiences: [www.linkedin.com/in/joao-vitor-mendes-silva](www.linkedin.com/in/joao-vitor-mendes-silva)
+
+## **📊 PROJECTS**
 
 ## **Machine learning**
 
