@@ -18,3 +18,8 @@
   <p align="center">
 <img  width="80%" src="https://github.com/Joaovtmendes/Marketing-regression/assets/154254190/eadbf2fd-bbdb-467d-a821-85090ad4ef45">
 </p>
+
+## **Python**
+## **Power Bi**
+## **SQL**
+## **AWS**
