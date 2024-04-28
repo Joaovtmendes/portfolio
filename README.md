@@ -30,9 +30,7 @@
 
 ## **📊 PROJECTS**
 
-## **Machine learning**
-
-### [**Regression model project for marketing**](https://github.com/Joaovtmendes/Marketing-regression)
+## [**Regression model project for marketing**](https://github.com/Joaovtmendes/Marketing-regression)
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/10XHskOCFjwNccVk36fd5FK5u2KOCpzPJ)
 - The company invests in online advertising platforms monthly and tracks advertising expenditures and sales returns. They seek to understand the relationship between these variables and identify factors that impact lead generation.
 - The goal is to analyze the data, visualize relationships and patterns, and create a model to predict sales returns.
@@ -41,7 +39,12 @@
 <img  width="80%" src="https://github.com/Joaovtmendes/Marketing-regression/assets/154254190/eadbf2fd-bbdb-467d-a821-85090ad4ef45">
 </p>
 
-## **Python**
-## **Power Bi**
-## **SQL**
-## **AWS**
+## [Business strategy with SQL](https://github.com/Joaovtmendes/Business-strategy-with-SQL/tree/main)
+
+- The project involves a detailed analysis of customer acquisition in an Edtech company, aiming to understand the growth of new users and develop a dashboard to provide insights for actionable plans to increase the number of registered users and drive the company's growth.
+- The goals are to analyze customer acquisition and assess new user growth, as well as to develop a dashboard for the business team to create actionable plans to increase registered users and drive company growth.
+- [More information about the project](https://github.com/Joaovtmendes/Business-strategy-with-SQL/tree/main)
+  
+  <p align="center">
+<img  width="80%" src="https://github.com/Joaovtmendes/Business-strategy-with-SQL/assets/154254190/f1980ab5-fffa-4673-bb0d-33d3145c01e7">
+</p>
