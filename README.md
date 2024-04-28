@@ -21,15 +21,21 @@
 - 📫 How to reach me: **joaovtmendes@gmail.com**
 
 - 📄 Know about my experiences: [www.linkedin.com/in/joao-vitor-mendes-silva](www.linkedin.com/in/joao-vitor-mendes-silva)
+  
+<h2 align="left">🌐Connect with me:</h2>
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/joao-vitor-mendes-silva)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-pink?style=for-the-badge&logo=instagram)](https://www.instagram.com/@joaovtmendes)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-brightgreen?style=for-the-badge&logo=whatsapp)](https://wa.me/5562998569888)
 
 ## **📊 PROJECTS**
 
 ## **Machine learning**
 
 ### [**Regression model project for marketing**](https://github.com/Joaovtmendes/Marketing-regression)
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/10XHskOCFjwNccVk36fd5FK5u2KOCpzPJ)
 - The company invests in online advertising platforms monthly and tracks advertising expenditures and sales returns. They seek to understand the relationship between these variables and identify factors that impact lead generation.
 - The goal is to analyze the data, visualize relationships and patterns, and create a model to predict sales returns.
-- [Click to access the code](https://colab.research.google.com/drive/10XHskOCFjwNccVk36fd5FK5u2KOCpzPJ)
 - [More information about the project](https://github.com/Joaovtmendes/Marketing-regression/tree/main)
   <p align="center">
 <img  width="80%" src="https://github.com/Joaovtmendes/Marketing-regression/assets/154254190/eadbf2fd-bbdb-467d-a821-85090ad4ef45">
