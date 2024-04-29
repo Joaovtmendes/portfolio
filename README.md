@@ -32,6 +32,15 @@
 
 ## [**Regression model project for marketing**](https://github.com/Joaovtmendes/Marketing-regression)
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/10XHskOCFjwNccVk36fd5FK5u2KOCpzPJ)
+- #### Technologies Used:
+<p align="left">  
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> 
+  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/M/matplotlib-logo-7676870AC0-seeklogo.com.png" alt="matplotlib" width="40" height="40"/> 
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
+
 - The company invests in online advertising platforms monthly and tracks advertising expenditures and sales returns. They seek to understand the relationship between these variables and identify factors that impact lead generation.
 - The goal is to analyze the data, visualize relationships and patterns, and create a model to predict sales returns.
 - [More information about the project](https://github.com/Joaovtmendes/Marketing-regression/tree/main)
@@ -41,6 +50,12 @@
 </p>
 
 ## [Business strategy with SQL](https://github.com/Joaovtmendes/Business-strategy-with-SQL/tree/main)
+
+- #### Technologies Used:
+
+  <a href="https://www.metabase.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Joaovtmendes/Business-strategy-with-SQL/assets/154254190/5b6a10d2-0590-456b-b77a-bc57becbab19" alt="Metabase" width="40" height="40" style="display:inline;"/> </a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
+  <a href="https://www.microsoft.com/pt-br/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/E/excel-logo-974BFF9CB9-seeklogo.com.png" alt="excel" width="40" height="40"/> 
 
 - The project involves a detailed analysis of customer acquisition in an Edtech company, aiming to understand the growth of new users and develop a dashboard to provide insights for actionable plans to increase the number of registered users and drive the company's growth.
 - The goals are to analyze customer acquisition and assess new user growth, as well as to develop a dashboard for the business team to create actionable plans to increase registered users and drive company growth.
