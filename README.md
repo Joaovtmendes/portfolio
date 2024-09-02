@@ -10,9 +10,9 @@
 
 - 👨‍🎓I have a degree in business administration and am currently pursuing a master's degree in data engineering
 
-- 💰 I work in a chain of confectioneries as a business analyst mainly with power bi, excel, sql and scrum
+- 💰 I worked in a chain of confectioneries as a business analyst mainly with power bi, excel, sql and scrum
   
-- 🔭 I am currently working on a project as a data analyst for an international event called Genfest
+- 🔭 I recently worked on two projects as a data analyst for an international event called Genfest and for a company called CBS Dance Factory
 
 - 👨‍💻 In 2022, I began my transition to the technology area. I started as a business analyst and later took on a position of trust, acting as the manager of one of the company's units.
   
@@ -47,6 +47,24 @@
 
   <p align="center">
 <img  width="80%" src="https://github.com/Joaovtmendes/Marketing-regression/assets/154254190/eadbf2fd-bbdb-467d-a821-85090ad4ef45">
+</p>
+
+## [Data Analysis CBS](https://github.com/Joaovtmendes/Data-analysis-CBS.git)
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/16qMk8a7tQysTQ0qg7DJyQ2-zGp73vqTp?usp=sharing)
+
+- #### Technologies Used:
+  <p align="left">  
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/</a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> 
+  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/M/matplotlib-logo-7676870AC0-seeklogo.com.png" alt="matplotlib" width="40" height="40"/> <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" alt="powerbi" width="40" height="40"/> 
+  <a href="https://www.microsoft.com/pt-br/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/E/excel-logo-974BFF9CB9-seeklogo.com.png" alt="excel" width="40" height="40"/> 
+  
+- CBS Dance Factory, a prestigious dance school located in São José dos Campos, SP, implemented a recurring payment model starting in January 2023. The goal of the data forecast is to optimize cash flow and better understand variations in student numbers and revenue.
+- The project aims to organize CBS Dance Factory's cash flow to avoid major fluctuations during peak and low student influx periods, analyze the impact of the recurring payment model on revenue, and identify patterns to enhance financial management.
+- Project goal: View the number of students enrolled in 2023 and 2024, monitor monthly revenue, analyze the sales funnel, and create a forecast model to predict revenue for the next 4 months.
+- [More information about the project](https://github.com/Joaovtmendes/Data-analysis-CBS.git)
+  <p align="center">
+<img  width="80%" src="https://github.com/user-attachments/assets/84540db8-a53e-47b7-a7ed-a43200cadc59">
 </p>
 
 ## [Business strategy with SQL](https://github.com/Joaovtmendes/Business-strategy-with-SQL/tree/main)
