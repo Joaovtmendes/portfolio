@@ -14,7 +14,7 @@
   
 - 🔭 I recently worked on two projects as a data analyst for an international event called Genfest and for a company called CBS Dance Factory
 
-- 👨‍💻 In 2022, I began my transition to the technology area. I started as a business analyst and later took on a position of trust, acting as the manager of one of the company's units.
+- 👨‍💻 In 2022, I began my transition to the technology area. I started as a business analyst and then assumed a position of trust, acting as a manager of one of the company's units, which allowed me to start using BI tools and developed this passion for data and problem solving.
   
 - 💬 Ask me about **Data analytics, Business modeling, Power BI, Python, SQL, Excel, VBA**
 
