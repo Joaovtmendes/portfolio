@@ -5,6 +5,7 @@
 - 🎓 **Education:** Bachelor's degree in Business Administration and a Postgraduate specialization in Data Engineering.  
 - 💼 **Expertise:** Skilled in **Excel, VBA, Power BI, SQL, Python, Airflow, Docker, Apache Spark, Databricks**, data automation, artificial intelligence, and cloud platforms such as **AWS** and **Azure**.  
 - 💡 **Interests:** Passionate about **data analytics**, **business intelligence**, and **data automation**.  
+- 📜 **Certifications:** Microsoft PL-300 Power BI, IBM Data Analyst, Google Business Intelligence  
 - 📫 **Contact Me:** Feel free to reach out at **joaovtmendes@gmail.com**.  
 - 📄 Know about my experiences: [www.linkedin.com/in/joao-vitor-mendes-silva](www.linkedin.com/in/joao-vitor-mendes-silva)
   
@@ -18,10 +19,6 @@
 
 ## [**Data Analysis ClearSale**](https://github.com/Joaovtmendes/Data_analyst_Clearsale.git)
 
-- #### Technologies Used:
- - Power BI
- - Excel
-   
 - ClearSale is a leading Brazilian company that specializes in fraud prevention and financial solutions, particularly in the e-commerce sector. Founded in 2001, it has built a reputation for providing secure payment processing and fraud detection services to businesses across various industries, including retail, financial services, and telecommunications.
 - Developed a Power BI dashboard to analyze customer service performance, consolidating KPIs such as average response time and cases per employee, enabling data-driven management.
 - Identified key insights, such as 35.8% of calls exceeding 180 minutes and 19.3% originating from a single customer, driving strategic actions to optimize service processes.
@@ -30,8 +27,8 @@
   
 - [More information about the project](https://github.com/Joaovtmendes/Data_analyst_Clearsale.git)
 
-  <p align="center">
-  <img width="60%" src="Vídeo-sem-título-‐-Feito-com-o-Clipchamp.gif" alt="Vídeo GIF">
+<p align="center">
+  <img width="80%" src="Vídeo-sem-título-‐-Feito-com-o-Clipchamp.gif" alt="Vídeo GIF">
 </p>
 
 ## [**Data Pipeline with Airflow and Docker**](https://github.com/Joaovtmendes/RID144568_desafio8.git)
